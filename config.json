@@ -1,0 +1,31 @@
+{
+    "name": "João Vitor Pereira",
+    "job": "Scuba Front-End Alura",
+    "github": "jovispereira",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "LEON INDO DA FELICIDADE AO DESESPERO! - Overwatch 2",
+                "url": "https://www.youtube.com/watch?v=bXBf7HjlZMw",
+                "thumb": "https://img.youtube.com/vi/bXBf7HjlZMw/hqdefault.jpg"
+            },
+            {
+                "title": "FALLEN VOLTOU!!🔥 FALLEN vs JOGADORES DO MM (Completo)",
+                "url": "https://www.youtube.com/watch?v=J7wm1SKWVcs",
+                "thumb": "https://img.youtube.com/vi/J7wm1SKWVcs/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "React: O minimo de base que você precisa saber para não sofrer começando na ferramenta",
+                "url": "https://youtu.be/4BxrxiMMjcA",
+                "thumb": "https://img.youtube.com/vi/4BxrxiMMjcA/hqdefault.jpg"
+            },
+            {
+                "title": "LANDING PAGE COM HTML e CSS!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            }
+        ]
+    }
+}
