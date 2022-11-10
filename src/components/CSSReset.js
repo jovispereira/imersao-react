@@ -1,6 +1,24 @@
 import { createGlobalStyle } from "styled-components";
 
 export const CSSReset = createGlobalStyle`
+  /* Scrollbar */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #8f54a0 #ffffff;
+  }
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+  *::-webkit-scrollbar-track {
+    background: ${({ theme }) => theme.objectLevel2};
+    border-radius: 5px;
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: ${({ theme }) => theme.objectBase};
+    border-radius: 10px;
+    border: 3px solid ${({ theme }) => theme.objectLevel1};
+  }
+  
   /* Reset */
   * {
     margin: 0;
@@ -9,6 +27,8 @@ export const CSSReset = createGlobalStyle`
   }
   body {
     font-family: sans-serif;
+    background-color: ${({ theme }) => theme.backgroundBase};
+    color: ${({ theme }) => theme.textColorBase};
   }
   /* NextJS */
   html {

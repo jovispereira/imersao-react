@@ -6,6 +6,11 @@
     "playlists": {
         "jogos": [
             {
+                "title": "STARDEW VALLEY É MUITO MAIS DO QUE APENAS UM SIMPLES JOGO",
+                "url": "https://www.youtube.com/watch?v=n9XWzRYGGMk",
+                "thumb": "https://img.youtube.com/vi/n9XWzRYGGMk/hqdefault.jpg"
+            },
+            {
                 "title": "LEON INDO DA FELICIDADE AO DESESPERO! - Overwatch 2",
                 "url": "https://www.youtube.com/watch?v=bXBf7HjlZMw",
                 "thumb": "https://img.youtube.com/vi/bXBf7HjlZMw/hqdefault.jpg"
@@ -14,6 +19,41 @@
                 "title": "FALLEN VOLTOU!!🔥 FALLEN vs JOGADORES DO MM (Completo)",
                 "url": "https://www.youtube.com/watch?v=J7wm1SKWVcs",
                 "thumb": "https://img.youtube.com/vi/J7wm1SKWVcs/hqdefault.jpg"
+            },
+            {
+                "title": "COD MWII - Meu Primeiro Gameplay!",
+                "url": "https://www.youtube.com/watch?v=UE327A0Z94I",
+                "thumb": "https://img.youtube.com/vi/UE327A0Z94I/hqdefault.jpg"
+            },
+            {
+                "title": "alanzoka jogando God of War Ragnarok - Parte #1",
+                "url": "https://www.youtube.com/watch?v=uy-66JYifYw",
+                "thumb": "https://img.youtube.com/vi/uy-66JYifYw/hqdefault.jpg"
+            },
+            {
+                "title": "castlevania - a sinfonia das reviews",
+                "url": "https://www.youtube.com/watch?v=vA7DyyWpvgk",
+                "thumb": "https://img.youtube.com/vi/vA7DyyWpvgk/hqdefault.jpg"
+            },
+            {
+                "title": "JOGAR DE NASUS É SOFRER NO INÍCIO E DEVOLVER TUDO DEPOIS",
+                "url": "https://www.youtube.com/watch?v=iFezE3Y_3T4",
+                "thumb": "https://img.youtube.com/vi/iFezE3Y_3T4/hqdefault.jpg"
+            },
+            {
+                "title": "Patriota ANULOU TODO MUNDO! - Ranqueada Overwatch 2",
+                "url": "https://www.youtube.com/watch?v=lP06_fTvY0A",
+                "thumb": "https://img.youtube.com/vi/lP06_fTvY0A/hqdefault.jpg"
+            },
+            {
+                "title": "fiz um jogo de terror",
+                "url": "https://www.youtube.com/watch?v=0__5I4DuNRU",
+                "thumb": "https://img.youtube.com/vi/0__5I4DuNRU/hqdefault.jpg"
+            },
+            {
+                "title": "BICHO CHUPÃO! - Resident Evil Village: Sombras de Rose (DLC)",
+                "url": "https://www.youtube.com/watch?v=FXw5v7p5qM8",
+                "thumb": "https://img.youtube.com/vi/FXw5v7p5qM8/hqdefault.jpg"
             }
         ],
         "front-end": [
